@@ -42,3 +42,4 @@ class Palindrome extends React.Component {
 }
 
 export default Palindrome
+
